@@ -2878,6 +2878,8 @@ information.
 #   See the "fan" section for a description of the above parameters.
 #sensor_type:
 #sensor_pin:
+#sensor_mcu:
+#   Replaces sensor_pin when sensor_type is configured as temperature_mcu.  
 #control:
 #max_delta:
 #min_temp:
